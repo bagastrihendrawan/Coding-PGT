@@ -1,0 +1,40 @@
+ Volume in drive C is Acer
+ Volume Serial Number is 0C38-31F5
+
+ Directory of C:\Users\62812
+
+14/08/2022  23:35    <DIR>          .
+14/08/2022  23:35    <DIR>          ..
+12/08/2022  20:54               723 .bash_history
+12/08/2022  07:44               101 .gitconfig
+14/12/2021  14:13    <DIR>          .VirtualBox
+11/08/2022  14:12    <DIR>          .vscode
+27/11/2021  03:59    <DIR>          3D Objects
+14/08/2022  23:25                16 cd.txt
+14/08/2022  23:17                16 chdir.txt
+27/11/2021  03:59    <DIR>          Contacts
+12/08/2022  20:43    <DIR>          Desktop
+14/08/2022  23:35                 0 dir.txt
+13/08/2022  20:45    <DIR>          Documents
+14/08/2022  00:14    <DIR>          Downloads
+27/11/2021  03:59    <DIR>          Favorites
+14/08/2022  23:15               482 getmac.txt
+14/08/2022  23:23             5.740 help.txt
+14/08/2022  23:07             1.234 ip.txt
+27/11/2021  14:37           120.137 LAPORAN PW ILHAM F.docx
+27/11/2021  03:59    <DIR>          Links
+10/12/2021  06:55    <DIR>          Music
+14/08/2022  19:50    <DIR>          OneDrive
+27/11/2021  04:02    <DIR>          PicStream
+29/11/2021  20:18    <DIR>          Pictures
+14/08/2022  23:11             1.697 ping.txt
+27/11/2021  03:59    <DIR>          Saved Games
+14/08/2022  23:29             5.146 sc.txt
+27/11/2021  04:02    <DIR>          Searches
+14/08/2022  23:18             3.532 systeminfo.txt
+14/08/2022  23:22            16.538 tasklist.txt
+14/08/2022  23:20            23.827 tree.txt
+14/08/2022  19:50    <DIR>          Videos
+14/12/2021  12:00    <DIR>          VirtualBox VMs
+              14 File(s)        179.189 bytes
+              19 Dir(s)  901.602.377.728 bytes free

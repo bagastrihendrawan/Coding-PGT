@@ -1,0 +1,689 @@
+Folder PATH listing for volume Acer
+Volume serial number is 0C38-31F5
+C:.
+ÃÄÄÄ.VirtualBox
+ÃÄÄÄ.vscode
+³   ÀÄÄÄextensions
+³       ÃÄÄÄbmewburn.vscode-intelephense-client-1.8.2
+³       ³   ÃÄÄÄ.github
+³       ³   ³   ÀÄÄÄISSUE_TEMPLATE
+³       ³   ÃÄÄÄimages
+³       ³   ÃÄÄÄlib
+³       ³   ÀÄÄÄnode_modules
+³       ³       ÀÄÄÄintelephense
+³       ³           ÃÄÄÄlib
+³       ³           ³   ÀÄÄÄstub
+³       ³           ³       ÃÄÄÄaerospike
+³       ³           ³       ÃÄÄÄamqp
+³       ³           ³       ÃÄÄÄapache
+³       ³           ³       ÃÄÄÄapcu
+³       ³           ³       ÃÄÄÄast
+³       ³           ³       ÃÄÄÄbcmath
+³       ³           ³       ÃÄÄÄblackfire
+³       ³           ³       ÃÄÄÄbz2
+³       ³           ³       ÃÄÄÄcalendar
+³       ³           ³       ÃÄÄÄcassandra
+³       ³           ³       ÃÄÄÄcom_dotnet
+³       ³           ³       ÃÄÄÄCore
+³       ³           ³       ÃÄÄÄcouchbase
+³       ³           ³       ÃÄÄÄcouchbase_v2
+³       ³           ³       ÃÄÄÄcrypto
+³       ³           ³       ÃÄÄÄctype
+³       ³           ³       ÃÄÄÄcubrid
+³       ³           ³       ÃÄÄÄcurl
+³       ³           ³       ÃÄÄÄdate
+³       ³           ³       ÃÄÄÄdba
+³       ³           ³       ÃÄÄÄdecimal
+³       ³           ³       ÃÄÄÄdio
+³       ³           ³       ÃÄÄÄdom
+³       ³           ³       ÃÄÄÄds
+³       ³           ³       ÃÄÄÄenchant
+³       ³           ³       ÃÄÄÄEv
+³       ³           ³       ÃÄÄÄevent
+³       ³           ³       ÃÄÄÄexif
+³       ³           ³       ÃÄÄÄexpect
+³       ³           ³       ÃÄÄÄfann
+³       ³           ³       ÃÄÄÄFFI
+³       ³           ³       ÃÄÄÄffmpeg
+³       ³           ³       ÃÄÄÄfileinfo
+³       ³           ³       ÃÄÄÄfilter
+³       ³           ³       ÃÄÄÄfpm
+³       ³           ³       ÃÄÄÄftp
+³       ³           ³       ÃÄÄÄgd
+³       ³           ³       ÃÄÄÄgearman
+³       ³           ³       ÃÄÄÄgeoip
+³       ³           ³       ÃÄÄÄgeos
+³       ³           ³       ÃÄÄÄgettext
+³       ³           ³       ÃÄÄÄgmagick
+³       ³           ³       ÃÄÄÄgmp
+³       ³           ³       ÃÄÄÄgnupg
+³       ³           ³       ÃÄÄÄgrpc
+³       ³           ³       ÃÄÄÄhash
+³       ³           ³       ÃÄÄÄhttp
+³       ³           ³       ÃÄÄÄibm_db2
+³       ³           ³       ÃÄÄÄiconv
+³       ³           ³       ÃÄÄÄigbinary
+³       ³           ³       ÃÄÄÄimagick
+³       ³           ³       ÃÄÄÄimap
+³       ³           ³       ÃÄÄÄinotify
+³       ³           ³       ÃÄÄÄinterbase
+³       ³           ³       ÃÄÄÄintl
+³       ³           ³       ÃÄÄÄjson
+³       ³           ³       ÃÄÄÄjudy
+³       ³           ³       ÃÄÄÄldap
+³       ³           ³       ÃÄÄÄleveldb
+³       ³           ³       ÃÄÄÄlibevent
+³       ³           ³       ÃÄÄÄlibsodium
+³       ³           ³       ÃÄÄÄlibvirt-php
+³       ³           ³       ÃÄÄÄlibxml
+³       ³           ³       ÃÄÄÄlua
+³       ³           ³       ÃÄÄÄLuaSandbox
+³       ³           ³       ÃÄÄÄlzf
+³       ³           ³       ÃÄÄÄmailparse
+³       ³           ³       ÃÄÄÄmapscript
+³       ³           ³       ÃÄÄÄmbstring
+³       ³           ³       ÃÄÄÄmcrypt
+³       ³           ³       ÃÄÄÄmemcache
+³       ³           ³       ÃÄÄÄmemcached
+³       ³           ³       ÃÄÄÄmeminfo
+³       ³           ³       ÃÄÄÄmeta
+³       ³           ³       ³   ÃÄÄÄattributes
+³       ³           ³       ³   ³   ÀÄÄÄinternal
+³       ³           ³       ³   ÀÄÄÄencodings
+³       ³           ³       ÃÄÄÄming
+³       ³           ³       ÃÄÄÄmongo
+³       ³           ³       ÃÄÄÄmongodb
+³       ³           ³       ÃÄÄÄmosquitto-php
+³       ³           ³       ÃÄÄÄmqseries
+³       ³           ³       ÃÄÄÄmsgpack
+³       ³           ³       ÃÄÄÄmssql
+³       ³           ³       ÃÄÄÄmysql
+³       ³           ³       ÃÄÄÄmysqli
+³       ³           ³       ÃÄÄÄmysql_xdevapi
+³       ³           ³       ÃÄÄÄncurses
+³       ³           ³       ÃÄÄÄnewrelic
+³       ³           ³       ÃÄÄÄoauth
+³       ³           ³       ÃÄÄÄoci8
+³       ³           ³       ÃÄÄÄodbc
+³       ³           ³       ÃÄÄÄopenssl
+³       ³           ³       ÃÄÄÄparallel
+³       ³           ³       ³   ÀÄÄÄparallel
+³       ³           ³       ³       ÃÄÄÄChannel
+³       ³           ³       ³       ³   ÀÄÄÄError
+³       ³           ³       ³       ÃÄÄÄEvents
+³       ³           ³       ³       ³   ÃÄÄÄError
+³       ³           ³       ³       ³   ÃÄÄÄEvent
+³       ³           ³       ³       ³   ÀÄÄÄInput
+³       ³           ³       ³       ³       ÀÄÄÄError
+³       ³           ³       ³       ÃÄÄÄFuture
+³       ³           ³       ³       ³   ÀÄÄÄError
+³       ³           ³       ³       ÃÄÄÄRuntime
+³       ³           ³       ³       ³   ÃÄÄÄError
+³       ³           ³       ³       ³   ÃÄÄÄObject
+³       ³           ³       ³       ³   ÀÄÄÄType
+³       ³           ³       ³       ÀÄÄÄSync
+³       ³           ³       ³           ÀÄÄÄError
+³       ³           ³       ÃÄÄÄParle
+³       ³           ³       ÃÄÄÄpcntl
+³       ³           ³       ÃÄÄÄpcov
+³       ³           ³       ÃÄÄÄpcre
+³       ³           ³       ÃÄÄÄpdflib
+³       ³           ³       ÃÄÄÄPDO
+³       ³           ³       ÃÄÄÄpdo_ibm
+³       ³           ³       ÃÄÄÄpdo_mysql
+³       ³           ³       ÃÄÄÄpdo_pgsql
+³       ³           ³       ÃÄÄÄpdo_sqlite
+³       ³           ³       ÃÄÄÄpgsql
+³       ³           ³       ÃÄÄÄPhar
+³       ³           ³       ÃÄÄÄphpdbg
+³       ³           ³       ÃÄÄÄposix
+³       ³           ³       ÃÄÄÄpq
+³       ³           ³       ÃÄÄÄpspell
+³       ³           ³       ÃÄÄÄpthreads
+³       ³           ³       ÃÄÄÄradius
+³       ³           ³       ÃÄÄÄrar
+³       ³           ³       ÃÄÄÄrdkafka
+³       ³           ³       ³   ÀÄÄÄRdKafka
+³       ³           ³       ³       ÀÄÄÄMetadata
+³       ³           ³       ÃÄÄÄreadline
+³       ³           ³       ÃÄÄÄrecode
+³       ³           ³       ÃÄÄÄredis
+³       ³           ³       ÃÄÄÄReflection
+³       ³           ³       ÃÄÄÄregex
+³       ³           ³       ÃÄÄÄrpminfo
+³       ³           ³       ÃÄÄÄrrd
+³       ³           ³       ÃÄÄÄSaxonC
+³       ³           ³       ÃÄÄÄsession
+³       ³           ³       ÃÄÄÄshmop
+³       ³           ³       ÃÄÄÄSimpleXML
+³       ³           ³       ÃÄÄÄsnmp
+³       ³           ³       ÃÄÄÄsoap
+³       ³           ³       ÃÄÄÄsockets
+³       ³           ³       ÃÄÄÄsodium
+³       ³           ³       ÃÄÄÄsolr
+³       ³           ³       ³   ÃÄÄÄDocuments
+³       ³           ³       ³   ÃÄÄÄExceptions
+³       ³           ³       ³   ÃÄÄÄQueries
+³       ³           ³       ³   ÃÄÄÄResponses
+³       ³           ³       ³   ÀÄÄÄUtils
+³       ³           ³       ÃÄÄÄSPL
+³       ³           ³       ÃÄÄÄSplType
+³       ³           ³       ÃÄÄÄSQLite
+³       ³           ³       ÃÄÄÄsqlite3
+³       ³           ³       ÃÄÄÄsqlsrv
+³       ³           ³       ÃÄÄÄssh2
+³       ³           ³       ÃÄÄÄstandard
+³       ³           ³       ÃÄÄÄstats
+³       ³           ³       ÃÄÄÄstomp
+³       ³           ³       ÃÄÄÄsuhosin
+³       ³           ³       ÃÄÄÄsuperglobals
+³       ³           ³       ÃÄÄÄsvm
+³       ³           ³       ÃÄÄÄsvn
+³       ³           ³       ÃÄÄÄsybase
+³       ³           ³       ÃÄÄÄsync
+³       ³           ³       ÃÄÄÄsysvmsg
+³       ³           ³       ÃÄÄÄsysvsem
+³       ³           ³       ÃÄÄÄsysvshm
+³       ³           ³       ÃÄÄÄtidy
+³       ³           ³       ÃÄÄÄtokenizer
+³       ³           ³       ÃÄÄÄuopz
+³       ³           ³       ÃÄÄÄuuid
+³       ³           ³       ÃÄÄÄuv
+³       ³           ³       ÃÄÄÄv8js
+³       ³           ³       ÃÄÄÄwddx
+³       ³           ³       ÃÄÄÄwin32service
+³       ³           ³       ÃÄÄÄwinbinder
+³       ³           ³       ÃÄÄÄwincache
+³       ³           ³       ÃÄÄÄwordpress
+³       ³           ³       ÃÄÄÄxcache
+³       ³           ³       ÃÄÄÄxdebug
+³       ³           ³       ÃÄÄÄxdiff
+³       ³           ³       ÃÄÄÄxhprof
+³       ³           ³       ÃÄÄÄxlswriter
+³       ³           ³       ÃÄÄÄxml
+³       ³           ³       ÃÄÄÄxmlreader
+³       ³           ³       ÃÄÄÄxmlrpc
+³       ³           ³       ÃÄÄÄxmlwriter
+³       ³           ³       ÃÄÄÄxsl
+³       ³           ³       ÃÄÄÄxxtea
+³       ³           ³       ÃÄÄÄyaf
+³       ³           ³       ÃÄÄÄyaml
+³       ³           ³       ÃÄÄÄyar
+³       ³           ³       ÃÄÄÄzend
+³       ³           ³       ÃÄÄÄZend OPcache
+³       ³           ³       ÃÄÄÄZendCache
+³       ³           ³       ÃÄÄÄZendDebugger
+³       ³           ³       ÃÄÄÄZendUtils
+³       ³           ³       ÃÄÄÄzip
+³       ³           ³       ÃÄÄÄzlib
+³       ³           ³       ÃÄÄÄzmq
+³       ³           ³       ÃÄÄÄzookeeper
+³       ³           ³       ÀÄÄÄzstd
+³       ³           ÀÄÄÄnode_modules
+³       ³               ÃÄÄÄfs-extra
+³       ³               ³   ÀÄÄÄlib
+³       ³               ³       ÃÄÄÄcopy
+³       ³               ³       ÃÄÄÄcopy-sync
+³       ³               ³       ÃÄÄÄempty
+³       ³               ³       ÃÄÄÄensure
+³       ³               ³       ÃÄÄÄfs
+³       ³               ³       ÃÄÄÄjson
+³       ³               ³       ÃÄÄÄmkdirs
+³       ³               ³       ÃÄÄÄmove
+³       ³               ³       ÃÄÄÄmove-sync
+³       ³               ³       ÃÄÄÄoutput
+³       ³               ³       ÃÄÄÄpath-exists
+³       ³               ³       ÃÄÄÄremove
+³       ³               ³       ÀÄÄÄutil
+³       ³               ÀÄÄÄuniversalify
+³       ÀÄÄÄesbenp.prettier-vscode-9.5.0
+³           ÃÄÄÄ.devcontainer
+³           ÃÄÄÄdist
+³           ÀÄÄÄnode_modules
+³               ÀÄÄÄprettier
+³                   ÀÄÄÄesm
+ÃÄÄÄ3D Objects
+ÃÄÄÄContacts
+ÃÄÄÄDesktop
+³   ÀÄÄÄCoding-PGT
+³       ÀÄÄÄKemampuan Dasar-1
+ÃÄÄÄDocuments
+³   ÃÄÄÄcibagaz
+³   ³   ÃÄÄÄapplication
+³   ³   ³   ÃÄÄÄcache
+³   ³   ³   ÃÄÄÄconfig
+³   ³   ³   ÃÄÄÄcontrollers
+³   ³   ³   ³   ÀÄÄÄadministrator
+³   ³   ³   ÃÄÄÄcore
+³   ³   ³   ÃÄÄÄhelpers
+³   ³   ³   ÃÄÄÄhooks
+³   ³   ³   ÃÄÄÄlanguage
+³   ³   ³   ³   ÀÄÄÄenglish
+³   ³   ³   ÃÄÄÄlibraries
+³   ³   ³   ÃÄÄÄlogs
+³   ³   ³   ÃÄÄÄmodels
+³   ³   ³   ÃÄÄÄthird_party
+³   ³   ³   ÀÄÄÄviews
+³   ³   ³       ÃÄÄÄadmin
+³   ³   ³       ÃÄÄÄerrors
+³   ³   ³       ³   ÃÄÄÄcli
+³   ³   ³       ³   ÀÄÄÄhtml
+³   ³   ³       ÀÄÄÄthemplate
+³   ³   ÃÄÄÄassets
+³   ³   ³   ÃÄÄÄ.github
+³   ³   ³   ³   ÃÄÄÄcodeql
+³   ³   ³   ³   ÃÄÄÄISSUE_TEMPLATE
+³   ³   ³   ³   ÀÄÄÄworkflows
+³   ³   ³   ÃÄÄÄbuild
+³   ³   ³   ³   ÃÄÄÄconfig
+³   ³   ³   ³   ÃÄÄÄjs
+³   ³   ³   ³   ÃÄÄÄnpm
+³   ³   ³   ³   ÀÄÄÄscss
+³   ³   ³   ³       ÃÄÄÄmixins
+³   ³   ³   ³       ÃÄÄÄpages
+³   ³   ³   ³       ÃÄÄÄparts
+³   ³   ³   ³       ÀÄÄÄplugins
+³   ³   ³   ÃÄÄÄdist
+³   ³   ³   ³   ÃÄÄÄcss
+³   ³   ³   ³   ³   ÀÄÄÄalt
+³   ³   ³   ³   ÃÄÄÄimg
+³   ³   ³   ³   ³   ÀÄÄÄcredit
+³   ³   ³   ³   ÀÄÄÄjs
+³   ³   ³   ³       ÀÄÄÄpages
+³   ³   ³   ÃÄÄÄdocs
+³   ³   ³   ³   ÃÄÄÄassets
+³   ³   ³   ³   ³   ÃÄÄÄcss
+³   ³   ³   ³   ³   ³   ÀÄÄÄalt
+³   ³   ³   ³   ³   ÃÄÄÄimg
+³   ³   ³   ³   ³   ÃÄÄÄjs
+³   ³   ³   ³   ³   ³   ÀÄÄÄpages
+³   ³   ³   ³   ³   ÀÄÄÄplugins
+³   ³   ³   ³   ³       ÃÄÄÄbootstrap
+³   ³   ³   ³   ³       ³   ÀÄÄÄjs
+³   ³   ³   ³   ³       ÃÄÄÄfontawesome-free
+³   ³   ³   ³   ³       ³   ÃÄÄÄcss
+³   ³   ³   ³   ³       ³   ÀÄÄÄwebfonts
+³   ³   ³   ³   ³       ÃÄÄÄjquery
+³   ³   ³   ³   ³       ÃÄÄÄoverlayScrollbars
+³   ³   ³   ³   ³       ³   ÃÄÄÄcss
+³   ³   ³   ³   ³       ³   ÀÄÄÄjs
+³   ³   ³   ³   ³       ÀÄÄÄpopper
+³   ³   ³   ³   ³           ÃÄÄÄesm
+³   ³   ³   ³   ³           ÀÄÄÄumd
+³   ³   ³   ³   ÃÄÄÄcomponents
+³   ³   ³   ³   ÃÄÄÄjavascript
+³   ³   ³   ³   ÃÄÄÄ_includes
+³   ³   ³   ³   ÀÄÄÄ_layouts
+³   ³   ³   ÃÄÄÄpages
+³   ³   ³   ³   ÃÄÄÄcharts
+³   ³   ³   ³   ÃÄÄÄexamples
+³   ³   ³   ³   ÃÄÄÄforms
+³   ³   ³   ³   ÃÄÄÄlayout
+³   ³   ³   ³   ÃÄÄÄmailbox
+³   ³   ³   ³   ÃÄÄÄsearch
+³   ³   ³   ³   ÃÄÄÄtables
+³   ³   ³   ³   ÀÄÄÄUI
+³   ³   ³   ÀÄÄÄplugins
+³   ³   ³       ÃÄÄÄbootstrap
+³   ³   ³       ³   ÀÄÄÄjs
+³   ³   ³       ÃÄÄÄbootstrap-colorpicker
+³   ³   ³       ³   ÃÄÄÄcss
+³   ³   ³       ³   ÀÄÄÄjs
+³   ³   ³       ÃÄÄÄbootstrap-slider
+³   ³   ³       ³   ÀÄÄÄcss
+³   ³   ³       ÃÄÄÄbootstrap-switch
+³   ³   ³       ³   ÃÄÄÄcss
+³   ³   ³       ³   ³   ÃÄÄÄbootstrap2
+³   ³   ³       ³   ³   ÀÄÄÄbootstrap3
+³   ³   ³       ³   ÀÄÄÄjs
+³   ³   ³       ÃÄÄÄbootstrap4-duallistbox
+³   ³   ³       ÃÄÄÄbs-custom-file-input
+³   ³   ³       ÃÄÄÄbs-stepper
+³   ³   ³       ³   ÃÄÄÄcss
+³   ³   ³       ³   ÀÄÄÄjs
+³   ³   ³       ÃÄÄÄchart.js
+³   ³   ³       ÃÄÄÄcodemirror
+³   ³   ³       ³   ÃÄÄÄaddon
+³   ³   ³       ³   ³   ÃÄÄÄcomment
+³   ³   ³       ³   ³   ÃÄÄÄdialog
+³   ³   ³       ³   ³   ÃÄÄÄdisplay
+³   ³   ³       ³   ³   ÃÄÄÄedit
+³   ³   ³       ³   ³   ÃÄÄÄfold
+³   ³   ³       ³   ³   ÃÄÄÄhint
+³   ³   ³       ³   ³   ÃÄÄÄlint
+³   ³   ³       ³   ³   ÃÄÄÄmerge
+³   ³   ³       ³   ³   ÃÄÄÄmode
+³   ³   ³       ³   ³   ÃÄÄÄrunmode
+³   ³   ³       ³   ³   ÃÄÄÄscroll
+³   ³   ³       ³   ³   ÃÄÄÄsearch
+³   ³   ³       ³   ³   ÃÄÄÄselection
+³   ³   ³       ³   ³   ÃÄÄÄtern
+³   ³   ³       ³   ³   ÀÄÄÄwrap
+³   ³   ³       ³   ÃÄÄÄkeymap
+³   ³   ³       ³   ÃÄÄÄmode
+³   ³   ³       ³   ³   ÃÄÄÄapl
+³   ³   ³       ³   ³   ÃÄÄÄasciiarmor
+³   ³   ³       ³   ³   ÃÄÄÄasn.1
+³   ³   ³       ³   ³   ÃÄÄÄasterisk
+³   ³   ³       ³   ³   ÃÄÄÄbrainfuck
+³   ³   ³       ³   ³   ÃÄÄÄclike
+³   ³   ³       ³   ³   ÃÄÄÄclojure
+³   ³   ³       ³   ³   ÃÄÄÄcmake
+³   ³   ³       ³   ³   ÃÄÄÄcobol
+³   ³   ³       ³   ³   ÃÄÄÄcoffeescript
+³   ³   ³       ³   ³   ÃÄÄÄcommonlisp
+³   ³   ³       ³   ³   ÃÄÄÄcrystal
+³   ³   ³       ³   ³   ÃÄÄÄcss
+³   ³   ³       ³   ³   ÃÄÄÄcypher
+³   ³   ³       ³   ³   ÃÄÄÄd
+³   ³   ³       ³   ³   ÃÄÄÄdart
+³   ³   ³       ³   ³   ÃÄÄÄdiff
+³   ³   ³       ³   ³   ÃÄÄÄdjango
+³   ³   ³       ³   ³   ÃÄÄÄdockerfile
+³   ³   ³       ³   ³   ÃÄÄÄdtd
+³   ³   ³       ³   ³   ÃÄÄÄdylan
+³   ³   ³       ³   ³   ÃÄÄÄebnf
+³   ³   ³       ³   ³   ÃÄÄÄecl
+³   ³   ³       ³   ³   ÃÄÄÄeiffel
+³   ³   ³       ³   ³   ÃÄÄÄelm
+³   ³   ³       ³   ³   ÃÄÄÄerlang
+³   ³   ³       ³   ³   ÃÄÄÄfactor
+³   ³   ³       ³   ³   ÃÄÄÄfcl
+³   ³   ³       ³   ³   ÃÄÄÄforth
+³   ³   ³       ³   ³   ÃÄÄÄfortran
+³   ³   ³       ³   ³   ÃÄÄÄgas
+³   ³   ³       ³   ³   ÃÄÄÄgfm
+³   ³   ³       ³   ³   ÃÄÄÄgherkin
+³   ³   ³       ³   ³   ÃÄÄÄgo
+³   ³   ³       ³   ³   ÃÄÄÄgroovy
+³   ³   ³       ³   ³   ÃÄÄÄhaml
+³   ³   ³       ³   ³   ÃÄÄÄhandlebars
+³   ³   ³       ³   ³   ÃÄÄÄhaskell
+³   ³   ³       ³   ³   ÃÄÄÄhaskell-literate
+³   ³   ³       ³   ³   ÃÄÄÄhaxe
+³   ³   ³       ³   ³   ÃÄÄÄhtmlembedded
+³   ³   ³       ³   ³   ÃÄÄÄhtmlmixed
+³   ³   ³       ³   ³   ÃÄÄÄhttp
+³   ³   ³       ³   ³   ÃÄÄÄidl
+³   ³   ³       ³   ³   ÃÄÄÄjavascript
+³   ³   ³       ³   ³   ÃÄÄÄjinja2
+³   ³   ³       ³   ³   ÃÄÄÄjsx
+³   ³   ³       ³   ³   ÃÄÄÄjulia
+³   ³   ³       ³   ³   ÃÄÄÄlivescript
+³   ³   ³       ³   ³   ÃÄÄÄlua
+³   ³   ³       ³   ³   ÃÄÄÄmarkdown
+³   ³   ³       ³   ³   ÃÄÄÄmathematica
+³   ³   ³       ³   ³   ÃÄÄÄmbox
+³   ³   ³       ³   ³   ÃÄÄÄmirc
+³   ³   ³       ³   ³   ÃÄÄÄmllike
+³   ³   ³       ³   ³   ÃÄÄÄmodelica
+³   ³   ³       ³   ³   ÃÄÄÄmscgen
+³   ³   ³       ³   ³   ÃÄÄÄmumps
+³   ³   ³       ³   ³   ÃÄÄÄnginx
+³   ³   ³       ³   ³   ÃÄÄÄnsis
+³   ³   ³       ³   ³   ÃÄÄÄntriples
+³   ³   ³       ³   ³   ÃÄÄÄoctave
+³   ³   ³       ³   ³   ÃÄÄÄoz
+³   ³   ³       ³   ³   ÃÄÄÄpascal
+³   ³   ³       ³   ³   ÃÄÄÄpegjs
+³   ³   ³       ³   ³   ÃÄÄÄperl
+³   ³   ³       ³   ³   ÃÄÄÄphp
+³   ³   ³       ³   ³   ÃÄÄÄpig
+³   ³   ³       ³   ³   ÃÄÄÄpowershell
+³   ³   ³       ³   ³   ÃÄÄÄproperties
+³   ³   ³       ³   ³   ÃÄÄÄprotobuf
+³   ³   ³       ³   ³   ÃÄÄÄpug
+³   ³   ³       ³   ³   ÃÄÄÄpuppet
+³   ³   ³       ³   ³   ÃÄÄÄpython
+³   ³   ³       ³   ³   ÃÄÄÄq
+³   ³   ³       ³   ³   ÃÄÄÄr
+³   ³   ³       ³   ³   ÃÄÄÄrpm
+³   ³   ³       ³   ³   ÃÄÄÄrst
+³   ³   ³       ³   ³   ÃÄÄÄruby
+³   ³   ³       ³   ³   ÃÄÄÄrust
+³   ³   ³       ³   ³   ÃÄÄÄsas
+³   ³   ³       ³   ³   ÃÄÄÄsass
+³   ³   ³       ³   ³   ÃÄÄÄscheme
+³   ³   ³       ³   ³   ÃÄÄÄshell
+³   ³   ³       ³   ³   ÃÄÄÄsieve
+³   ³   ³       ³   ³   ÃÄÄÄslim
+³   ³   ³       ³   ³   ÃÄÄÄsmalltalk
+³   ³   ³       ³   ³   ÃÄÄÄsmarty
+³   ³   ³       ³   ³   ÃÄÄÄsolr
+³   ³   ³       ³   ³   ÃÄÄÄsoy
+³   ³   ³       ³   ³   ÃÄÄÄsparql
+³   ³   ³       ³   ³   ÃÄÄÄspreadsheet
+³   ³   ³       ³   ³   ÃÄÄÄsql
+³   ³   ³       ³   ³   ÃÄÄÄstex
+³   ³   ³       ³   ³   ÃÄÄÄstylus
+³   ³   ³       ³   ³   ÃÄÄÄswift
+³   ³   ³       ³   ³   ÃÄÄÄtcl
+³   ³   ³       ³   ³   ÃÄÄÄtextile
+³   ³   ³       ³   ³   ÃÄÄÄtiddlywiki
+³   ³   ³       ³   ³   ÃÄÄÄtiki
+³   ³   ³       ³   ³   ÃÄÄÄtoml
+³   ³   ³       ³   ³   ÃÄÄÄtornado
+³   ³   ³       ³   ³   ÃÄÄÄtroff
+³   ³   ³       ³   ³   ÃÄÄÄttcn
+³   ³   ³       ³   ³   ÃÄÄÄttcn-cfg
+³   ³   ³       ³   ³   ÃÄÄÄturtle
+³   ³   ³       ³   ³   ÃÄÄÄtwig
+³   ³   ³       ³   ³   ÃÄÄÄvb
+³   ³   ³       ³   ³   ÃÄÄÄvbscript
+³   ³   ³       ³   ³   ÃÄÄÄvelocity
+³   ³   ³       ³   ³   ÃÄÄÄverilog
+³   ³   ³       ³   ³   ÃÄÄÄvhdl
+³   ³   ³       ³   ³   ÃÄÄÄvue
+³   ³   ³       ³   ³   ÃÄÄÄwast
+³   ³   ³       ³   ³   ÃÄÄÄwebidl
+³   ³   ³       ³   ³   ÃÄÄÄxml
+³   ³   ³       ³   ³   ÃÄÄÄxquery
+³   ³   ³       ³   ³   ÃÄÄÄyacas
+³   ³   ³       ³   ³   ÃÄÄÄyaml
+³   ³   ³       ³   ³   ÃÄÄÄyaml-frontmatter
+³   ³   ³       ³   ³   ÀÄÄÄz80
+³   ³   ³       ³   ÀÄÄÄtheme
+³   ³   ³       ÃÄÄÄdatatables
+³   ³   ³       ÃÄÄÄdatatables-autofill
+³   ³   ³       ³   ÃÄÄÄcss
+³   ³   ³       ³   ÀÄÄÄjs
+³   ³   ³       ÃÄÄÄdatatables-bs4
+³   ³   ³       ³   ÃÄÄÄcss
+³   ³   ³       ³   ÀÄÄÄjs
+³   ³   ³       ÃÄÄÄdatatables-buttons
+³   ³   ³       ³   ÃÄÄÄcss
+³   ³   ³       ³   ÀÄÄÄjs
+³   ³   ³       ÃÄÄÄdatatables-colreorder
+³   ³   ³       ³   ÃÄÄÄcss
+³   ³   ³       ³   ÀÄÄÄjs
+³   ³   ³       ÃÄÄÄdatatables-fixedcolumns
+³   ³   ³       ³   ÃÄÄÄcss
+³   ³   ³       ³   ÀÄÄÄjs
+³   ³   ³       ÃÄÄÄdatatables-fixedheader
+³   ³   ³       ³   ÃÄÄÄcss
+³   ³   ³       ³   ÀÄÄÄjs
+³   ³   ³       ÃÄÄÄdatatables-keytable
+³   ³   ³       ³   ÃÄÄÄcss
+³   ³   ³       ³   ÀÄÄÄjs
+³   ³   ³       ÃÄÄÄdatatables-responsive
+³   ³   ³       ³   ÃÄÄÄcss
+³   ³   ³       ³   ÀÄÄÄjs
+³   ³   ³       ÃÄÄÄdatatables-rowgroup
+³   ³   ³       ³   ÃÄÄÄcss
+³   ³   ³       ³   ÀÄÄÄjs
+³   ³   ³       ÃÄÄÄdatatables-rowreorder
+³   ³   ³       ³   ÃÄÄÄcss
+³   ³   ³       ³   ÀÄÄÄjs
+³   ³   ³       ÃÄÄÄdatatables-scroller
+³   ³   ³       ³   ÃÄÄÄcss
+³   ³   ³       ³   ÀÄÄÄjs
+³   ³   ³       ÃÄÄÄdatatables-searchbuilder
+³   ³   ³       ³   ÃÄÄÄcss
+³   ³   ³       ³   ÀÄÄÄjs
+³   ³   ³       ÃÄÄÄdatatables-searchpanes
+³   ³   ³       ³   ÃÄÄÄcss
+³   ³   ³       ³   ÀÄÄÄjs
+³   ³   ³       ÃÄÄÄdatatables-select
+³   ³   ³       ³   ÃÄÄÄcss
+³   ³   ³       ³   ÀÄÄÄjs
+³   ³   ³       ÃÄÄÄdaterangepicker
+³   ³   ³       ÃÄÄÄdropzone
+³   ³   ³       ³   ÀÄÄÄmin
+³   ³   ³       ÃÄÄÄekko-lightbox
+³   ³   ³       ÃÄÄÄfastclick
+³   ³   ³       ÃÄÄÄfilterizr
+³   ³   ³       ÃÄÄÄflag-icon-css
+³   ³   ³       ³   ÃÄÄÄcss
+³   ³   ³       ³   ÀÄÄÄflags
+³   ³   ³       ³       ÃÄÄÄ1x1
+³   ³   ³       ³       ÀÄÄÄ4x3
+³   ³   ³       ÃÄÄÄflot
+³   ³   ³       ³   ÀÄÄÄplugins
+³   ³   ³       ÃÄÄÄfontawesome-free
+³   ³   ³       ³   ÃÄÄÄcss
+³   ³   ³       ³   ÀÄÄÄwebfonts
+³   ³   ³       ÃÄÄÄfullcalendar
+³   ³   ³       ³   ÀÄÄÄlocales
+³   ³   ³       ÃÄÄÄicheck-bootstrap
+³   ³   ³       ÃÄÄÄinputmask
+³   ³   ³       ÃÄÄÄion-rangeslider
+³   ³   ³       ³   ÃÄÄÄcss
+³   ³   ³       ³   ÀÄÄÄjs
+³   ³   ³       ÃÄÄÄjquery
+³   ³   ³       ÃÄÄÄjquery-knob
+³   ³   ³       ÃÄÄÄjquery-mapael
+³   ³   ³       ³   ÀÄÄÄmaps
+³   ³   ³       ÃÄÄÄjquery-mousewheel
+³   ³   ³       ÃÄÄÄjquery-ui
+³   ³   ³       ³   ÀÄÄÄimages
+³   ³   ³       ÃÄÄÄjquery-validation
+³   ³   ³       ³   ÀÄÄÄlocalization
+³   ³   ³       ÃÄÄÄjqvmap
+³   ³   ³       ³   ÀÄÄÄmaps
+³   ³   ³       ³       ÀÄÄÄcontinents
+³   ³   ³       ÃÄÄÄjsgrid
+³   ³   ³       ³   ÃÄÄÄdemos
+³   ³   ³       ³   ÀÄÄÄi18n
+³   ³   ³       ÃÄÄÄjszip
+³   ³   ³       ÃÄÄÄmoment
+³   ³   ³       ³   ÀÄÄÄlocale
+³   ³   ³       ÃÄÄÄoverlayScrollbars
+³   ³   ³       ³   ÃÄÄÄcss
+³   ³   ³       ³   ÀÄÄÄjs
+³   ³   ³       ÃÄÄÄpace-progress
+³   ³   ³       ³   ÀÄÄÄthemes
+³   ³   ³       ³       ÃÄÄÄblack
+³   ³   ³       ³       ÃÄÄÄblue
+³   ³   ³       ³       ÃÄÄÄgreen
+³   ³   ³       ³       ÃÄÄÄorange
+³   ³   ³       ³       ÃÄÄÄpink
+³   ³   ³       ³       ÃÄÄÄpurple
+³   ³   ³       ³       ÃÄÄÄred
+³   ³   ³       ³       ÃÄÄÄsilver
+³   ³   ³       ³       ÃÄÄÄwhite
+³   ³   ³       ³       ÀÄÄÄyellow
+³   ³   ³       ÃÄÄÄpdfmake
+³   ³   ³       ÃÄÄÄpopper
+³   ³   ³       ³   ÃÄÄÄesm
+³   ³   ³       ³   ÀÄÄÄumd
+³   ³   ³       ÃÄÄÄraphael
+³   ³   ³       ÃÄÄÄselect2
+³   ³   ³       ³   ÃÄÄÄcss
+³   ³   ³       ³   ÀÄÄÄjs
+³   ³   ³       ³       ÀÄÄÄi18n
+³   ³   ³       ÃÄÄÄselect2-bootstrap4-theme
+³   ³   ³       ÃÄÄÄsparklines
+³   ³   ³       ÃÄÄÄsummernote
+³   ³   ³       ³   ÃÄÄÄfont
+³   ³   ³       ³   ÃÄÄÄlang
+³   ³   ³       ³   ÀÄÄÄplugin
+³   ³   ³       ³       ÃÄÄÄdatabasic
+³   ³   ³       ³       ÃÄÄÄhello
+³   ³   ³       ³       ÀÄÄÄspecialchars
+³   ³   ³       ÃÄÄÄsweetalert2
+³   ³   ³       ÃÄÄÄsweetalert2-theme-bootstrap-4
+³   ³   ³       ÃÄÄÄtempusdominus-bootstrap-4
+³   ³   ³       ³   ÃÄÄÄcss
+³   ³   ³       ³   ÀÄÄÄjs
+³   ³   ³       ÃÄÄÄtoastr
+³   ³   ³       ÀÄÄÄuplot
+³   ³   ÀÄÄÄsystem
+³   ³       ÃÄÄÄcore
+³   ³       ³   ÀÄÄÄcompat
+³   ³       ÃÄÄÄdatabase
+³   ³       ³   ÀÄÄÄdrivers
+³   ³       ³       ÃÄÄÄcubrid
+³   ³       ³       ÃÄÄÄibase
+³   ³       ³       ÃÄÄÄmssql
+³   ³       ³       ÃÄÄÄmysql
+³   ³       ³       ÃÄÄÄmysqli
+³   ³       ³       ÃÄÄÄoci8
+³   ³       ³       ÃÄÄÄodbc
+³   ³       ³       ÃÄÄÄpdo
+³   ³       ³       ³   ÀÄÄÄsubdrivers
+³   ³       ³       ÃÄÄÄpostgre
+³   ³       ³       ÃÄÄÄsqlite
+³   ³       ³       ÃÄÄÄsqlite3
+³   ³       ³       ÀÄÄÄsqlsrv
+³   ³       ÃÄÄÄfonts
+³   ³       ÃÄÄÄhelpers
+³   ³       ÃÄÄÄlanguage
+³   ³       ³   ÀÄÄÄenglish
+³   ³       ÀÄÄÄlibraries
+³   ³           ÃÄÄÄCache
+³   ³           ³   ÀÄÄÄdrivers
+³   ³           ÃÄÄÄJavascript
+³   ³           ÀÄÄÄSession
+³   ³               ÀÄÄÄdrivers
+³   ÃÄÄÄCustom Office Templates
+³   ÃÄÄÄILHAM
+³   ÃÄÄÄMicrosoft Office Professional Plus 2016 Final Full Version
+³   ³   ÃÄÄÄfiles
+³   ³   ³   ÃÄÄÄOffice
+³   ³   ³   ³   ÀÄÄÄData
+³   ³   ³   ³       ÃÄÄÄ16.0.4229.1002
+³   ³   ³   ³       ÀÄÄÄv64
+³   ³   ³   ÃÄÄÄx64
+³   ³   ³   ÀÄÄÄx86
+³   ³   ÃÄÄÄKMSAuto Lite
+³   ³   ÀÄÄÄMicrosoft Office Professional Plus 2016 Final Full Version
+³   ³       ÃÄÄÄfiles
+³   ³       ³   ÃÄÄÄOffice
+³   ³       ³   ³   ÀÄÄÄData
+³   ³       ³   ³       ÀÄÄÄ16.0.4229.1002
+³   ³       ³   ÃÄÄÄx64
+³   ³       ³   ÀÄÄÄx86
+³   ³       ÀÄÄÄKMSAuto Lite
+³   ÀÄÄÄZoom
+ÃÄÄÄDownloads
+ÃÄÄÄFavorites
+³   ÃÄÄÄAcer
+³   ÀÄÄÄLinks
+ÃÄÄÄLinks
+ÃÄÄÄMusic
+ÃÄÄÄOneDrive
+³   ÃÄÄÄDocuments
+³   ÀÄÄÄPictures
+³       ÀÄÄÄScreenshots
+ÃÄÄÄPicStream
+ÃÄÄÄPictures
+³   ÃÄÄÄCamera Roll
+³   ÃÄÄÄclear.fi
+³   ³   ÀÄÄÄPinned
+³   ³       ÀÄÄÄ0
+³   ÃÄÄÄSaved Pictures
+³   ÀÄÄÄScreenshots
+ÃÄÄÄSaved Games
+ÃÄÄÄSearches
+ÃÄÄÄVideos
+³   ÀÄÄÄCaptures
+ÀÄÄÄVirtualBox VMs
+    ÃÄÄÄfarhan
+    ³   ÃÄÄÄLogs
+    ³   ÀÄÄÄSnapshots
+    ÃÄÄÄFERDY AKBAR
+    ³   ÃÄÄÄLogs
+    ³   ÀÄÄÄSnapshots
+    ÀÄÄÄILHAM FEBRIYAN NUGROHO
+        ÃÄÄÄLogs
+        ÀÄÄÄSnapshots

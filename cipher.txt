@@ -1,0 +1,42 @@
+
+ Listing C:\Users\62812\
+ New files added to this directory will not be encrypted.
+
+U .bash_history
+U .gitconfig
+U .VirtualBox
+U .vscode
+U 3D Objects
+U cd.txt
+U chdir.txt
+U cipher.txt
+U color.txt
+U Contacts
+U date.txt
+U Desktop
+U dir.txt
+U Documents
+U Downloads
+U Favorites
+U ftype.txt
+U getmac.txt
+U help.txt
+U ip.txt
+U LAPORAN PW ILHAM F.docx
+U Links
+U Music
+U netstat.txt
+U OneDrive
+U PicStream
+U Pictures
+U ping.txt
+U Saved Games
+U sc.txt
+U Searches
+U systeminfo.txt
+U tasklist.txt
+U time.txt
+U tree.txt
+U ver.txt
+U Videos
+U VirtualBox VMs

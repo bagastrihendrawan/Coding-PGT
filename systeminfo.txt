@@ -1,0 +1,67 @@
+
+Host Name:                 LAPTOP-UF8A8L42
+OS Name:                   Microsoft Windows 10 Home Single Language
+OS Version:                10.0.19042 N/A Build 19042
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          6281210878960
+Registered Organization:   N/A
+Product ID:                00327-35109-00386-AAOEM
+Original Install Date:     26/11/2021, 16:41:59
+System Boot Time:          12/08/2022, 07:23:35
+System Manufacturer:       Acer
+System Model:              Aspire E5-476G
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 142 Stepping 10 GenuineIntel ~1600 Mhz
+BIOS Version:              Insyde Corp. V1.36, 24/07/2018
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume2
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC+07:00) Bangkok, Hanoi, Jakarta
+Total Physical Memory:     3.973 MB
+Available Physical Memory: 871 MB
+Virtual Memory: Max Size:  8.032 MB
+Virtual Memory: Available: 3.292 MB
+Virtual Memory: In Use:    4.740 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\LAPTOP-UF8A8L42
+Hotfix(s):                 10 Hotfix(s) Installed.
+                           [01]: KB5009467
+                           [02]: KB5013624
+                           [03]: KB4562830
+                           [04]: KB4570334
+                           [05]: KB4580325
+                           [06]: KB4586864
+                           [07]: KB5005716
+                           [08]: KB5008212
+                           [09]: KB5006753
+                           [10]: KB5007273
+Network Card(s):           4 NIC(s) Installed.
+                           [01]: Realtek PCIe GBE Family Controller
+                                 Connection Name: Ethernet 2
+                                 Status:          Media disconnected
+                           [02]: Qualcomm Atheros QCA9377 Wireless Network Adapter
+                                 Connection Name: Wi-Fi 2
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.0.1
+                                 IP address(es)
+                                 [01]: 192.168.0.17
+                                 [02]: fe80::7c58:2a2:ace6:ca6e
+                           [03]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection 2
+                                 Status:          Media disconnected
+                           [04]: VirtualBox Host-Only Ethernet Adapter
+                                 Connection Name: VirtualBox Host-Only Network
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.56.1
+                                 [02]: fe80::2509:3f9:bf59:7c7d
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes

@@ -1,0 +1,37 @@
+A                    C:\Users\62812\.bash_history
+A                    C:\Users\62812\.gitconfig
+A                    C:\Users\62812\attrib.txt
+A                    C:\Users\62812\cd.txt
+A                    C:\Users\62812\chdir.txt
+A                    C:\Users\62812\cipher.txt
+A                    C:\Users\62812\color.txt
+A                    C:\Users\62812\date.txt
+A                    C:\Users\62812\dir.txt
+A                    C:\Users\62812\ftype.txt
+A                    C:\Users\62812\getmac.txt
+A                    C:\Users\62812\help.txt
+A                    C:\Users\62812\ip.txt
+A                    C:\Users\62812\LAPORAN PW ILHAM F.docx
+A                    C:\Users\62812\netstat.txt
+A   H   I            C:\Users\62812\NTUSER.DAT
+A  SH                C:\Users\62812\ntuser.dat.LOG1
+A  SH                C:\Users\62812\ntuser.dat.LOG2
+A  SH                C:\Users\62812\NTUSER.DAT{656ad37f-4e98-11ec-9812-b22013dc86ac}.TxR.0.regtrans-ms
+A  SH                C:\Users\62812\NTUSER.DAT{656ad37f-4e98-11ec-9812-b22013dc86ac}.TxR.1.regtrans-ms
+A  SH                C:\Users\62812\NTUSER.DAT{656ad37f-4e98-11ec-9812-b22013dc86ac}.TxR.2.regtrans-ms
+A  SH                C:\Users\62812\NTUSER.DAT{656ad37f-4e98-11ec-9812-b22013dc86ac}.TxR.blf
+A  SH                C:\Users\62812\NTUSER.DAT{656ad380-4e98-11ec-9812-b22013dc86ac}.TM.blf
+A  SH                C:\Users\62812\NTUSER.DAT{656ad380-4e98-11ec-9812-b22013dc86ac}.TMContainer00000000000000000001.regtrans-ms
+A  SH                C:\Users\62812\NTUSER.DAT{656ad380-4e98-11ec-9812-b22013dc86ac}.TMContainer00000000000000000002.regtrans-ms
+   SH                C:\Users\62812\ntuser.ini
+A                    C:\Users\62812\ping.txt
+A                    C:\Users\62812\prompt.txt
+A                    C:\Users\62812\sc.txt
+A                    C:\Users\62812\systeminfo.txt
+A                    C:\Users\62812\tasklist.txt
+A                    C:\Users\62812\taskmgr.php
+A                    C:\Users\62812\taskmgr.txt
+A                    C:\Users\62812\time.txt
+A                    C:\Users\62812\tree.txt
+A                    C:\Users\62812\ver.txt
+A                    C:\Users\62812\whoami.txt

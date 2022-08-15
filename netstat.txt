@@ -1,0 +1,9 @@
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State
+  TCP    192.168.0.17:59005     20.198.118.190:https   ESTABLISHED
+  TCP    192.168.0.17:59041     40.99.10.50:https      ESTABLISHED
+  TCP    192.168.0.17:59210     20.198.119.84:https    ESTABLISHED
+  TCP    192.168.0.17:61396     117.18.232.200:https   CLOSE_WAIT
+  TCP    192.168.0.17:61596     25:https               ESTABLISHED
